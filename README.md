@@ -1,5 +1,7 @@
 # Cocktail Finder
 created by : Spencer Firestone
+
+
 instructions:
 * This React app can search for any cocktail drink and give you the recipe *
 * Type any drink and will give you the output *
