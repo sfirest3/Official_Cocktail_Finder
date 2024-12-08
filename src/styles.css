@@ -6,6 +6,11 @@ body {
   background: linear-gradient(to right, #ffecd2, #9fe0fcd2);
   color: #333333;
 }
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 100px;
+}
 
 .cocktail-image {
   max-width: 35%;
