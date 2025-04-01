@@ -23,6 +23,6 @@ The images used in the app are sourced from Freepik (https://img.freepik.com/fre
 Live Demo & Source Code:
 
 The project can be accessed and tested directly on CodeSandbox.
-https://codesandbox.io/p/github/sfirest3/Official_Cocktail_Finder/draft/musing-minsky
+https://s2jnpn-3000.csb.app/
 
 
